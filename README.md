@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahmad Baihaqi 👋
 
 I'm a passionate developer who loves working on projects that make a difference. I have experience in **[mention your expertise, e.g., web development, IoT, mobile apps, etc.]**. Currently, I am focusing on **[current focus or technology]**.
 
