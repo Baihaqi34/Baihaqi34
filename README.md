@@ -4,7 +4,7 @@ I'm a Fullstack Web Developer with a passion for building responsive and dynamic
 
 ## 🚀 Technologies & Tools
 
-<div align="center">
+<p align="center">
 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 
@@ -22,4 +22,4 @@ I'm a Fullstack Web Developer with a passion for building responsive and dynamic
 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 
-</div>
+</p>
