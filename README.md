@@ -9,7 +9,6 @@
       font-family: 'Poppins', sans-serif;
     }
   </style>
-  <title>Profile</title>
 </head>
 <body>
   <h1 align="left">Hi There, I'm Ahmad Baihaqi 👋</h1>
