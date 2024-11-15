@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ahmad Baihaqi</h1>
-<p>A passionate frontend developer from </p>
+<p>A passionate frontend developer from Indonesia  </p>
 <p>
-<div align="center">
+<div align="left">
   <img height="200" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 </p>
