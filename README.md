@@ -18,8 +18,8 @@
 
 
 <p>
-<a target="_blank" href="https://www.instagram.com/ahmadbaihqii_/" style="display: inline-block;">
-<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+<a href="https://www.instagram.com/ahmadbaihqii_/" style="display: inline-block;" target="_blank">
+<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" height="30" />
 </a>
 
 
